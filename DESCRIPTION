@@ -1,0 +1,13 @@
+Package: timesheets_api
+Title: Smartsheets timesheet analysis
+Version: 0.0.0.9000
+Authors@R: person('Chris', 'Beeley', email = 'chris.beeley@gmail.com', role = c('cre', 'aut'))
+Description: A Shiny application to show timesheet information
+License: MIT + file LICENSE
+Imports: 
+    config (>= 0.3.1),
+    golem (>= 0.4.1),
+    shiny (>= 1.7.5)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
